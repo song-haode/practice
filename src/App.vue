@@ -2,11 +2,11 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 // import HelloWorld from './components/HelloWorld.vue'
-import index from './components/ChapterIV/index.vue'
+import About from './components/FuzzyQuery/About.vue'
 </script>
 
 <template>
-  <index  />
+  <About/>
 </template>
 
 <style scoped>

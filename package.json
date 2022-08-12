@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "element-plus": "^2.2.12",
+    "fuse.js": "^6.6.2",
     "vue": "^3.2.37"
   },
   "devDependencies": {
